@@ -41,7 +41,11 @@ Run the main application:
 ```bash 
 uv run marine.py
 ```
-Feel free to iterate over the marine.py file to improve segmentation (add more classes, etc) :)
+Feel free to iterate over the marine.py file to improve segmentation (add more classes, etc). To add more Python packages using `uv`, use 
+```bash
+uv add package-name
+```
+`uv` is a better dependency manager for Python for reproducibility (better than `conda` too) :)
 
 ---
 
