@@ -12,6 +12,7 @@ Ensure the following programs and packages are installed (already installed in t
 |---------|--------------------|
 | `uv` | `curl -LsSf https://astral.sh/uv/install.sh \| sh && source $HOME/.bashrc` |
 | `python3-picamera2` | `sudo apt install python3-picamera2` |
+| update os (done on surveyor) | `sudo apt full-upgrade` |
 
 ---
 
